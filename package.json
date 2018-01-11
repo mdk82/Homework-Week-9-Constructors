@@ -1,0 +1,14 @@
+{
+  "name": "week-9-homework-constructors",
+  "version": "1.0.0",
+  "description": "UCI Coding Bootcamp Homework Week 9 Constructors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Klingelberg",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.0.0"
+  }
+}
