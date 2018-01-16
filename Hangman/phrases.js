@@ -1,0 +1,23 @@
+module.exports = [
+    "Pulp Fiction",
+    "Romeo and Juliet",
+    "Clerks",
+    "Billy Madison",
+    "The Usual Suspects",
+    "Dumb and Dumber",
+    "Casino",
+    "The Shawshank Redemption",
+    "Schindlers List",
+    "Edward Scisorhands",
+    "Waynes World",
+    "Being John Malkovich",
+    "Dazed and Confused",
+    "Unforgiven",
+    "Starship Troopers",
+    "The Big Lebowski",
+    "Princess Mononoke",
+    "Fight Club",
+    "Fargo",
+    "Groundhog Day",
+    "Goodfellas"
+    ];
